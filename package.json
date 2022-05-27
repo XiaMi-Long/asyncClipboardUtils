@@ -1,6 +1,6 @@
 {
   "name": "async-clipboard-utils",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "前端异步复制粘贴工具类",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,11 @@
     "type": "git",
     "url": "git+https://github.com/XiaMi-Long/asyncClipboardUtils.git"
   },
-  "keywords": [],
+  "keywords": [
+    "clipboard",
+    "js utils",
+    "async-clipboard"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {

@@ -181,6 +181,8 @@ asyncClipboardUtils({
 
 ## English
 
+> Machinetranslation sorry
+
 ### Introduce
 
 #### What is async clipboard utils
