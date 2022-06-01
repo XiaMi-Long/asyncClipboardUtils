@@ -150,6 +150,10 @@ asyncClipboardUtils({
 
 #### 注意事项
 
+##### 参数传入
+
+**向 asyncClipboardUtils 传递配置参数时，error 对象和你需要的操作对应的回调函数为必填**
+
 ##### 同时写入多个数据,但是剪贴板只有一个
 
 如果你使用的是 window 10 机器，可以用 win + v 开启电脑自带的剪贴板，来查看情况
@@ -335,6 +339,10 @@ asyncClipboardUtils({
 ```
 
 #### Attention
+
+##### Parameter transfer
+
+**When passing configuration parameters to asyncclipboardoutils, the error object and the callback function corresponding to the operation you need are required**
 
 ##### Write multiple data at the same time, but there is only one clipboard
 

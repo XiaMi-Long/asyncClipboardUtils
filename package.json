@@ -1,6 +1,6 @@
 {
   "name": "async-clipboard-utils",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "前端异步复制粘贴工具类",
   "main": "index.js",
   "scripts": {
